@@ -1,0 +1,1 @@
+# Lambda terraform example with custom policy
